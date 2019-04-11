@@ -1,6 +1,6 @@
 //Author: Samreaksa Ros
 //Mobile: +85592 200069
-//https://www.monkeyidesign.com
+//Website: https://www.monkeyidesign.com
 
 function fryRice(){
   var name = "Get data from Phu input";//static data
